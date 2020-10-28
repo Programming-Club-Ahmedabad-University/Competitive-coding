@@ -1,4 +1,4 @@
-# Competitive-coding
+# Competitive-coding  
 Solutions to competitive prgramming questions on codeforces and codechef.
 
 ## Rules
@@ -8,5 +8,6 @@ Solutions to competitive prgramming questions on codeforces and codechef.
   - The submitted solutions should not overlap with any of the present.
 - Only one pull request from one account will be considered.
 - Moderators can decline the pull request if found unnecessary or stub.
-- Spams will be marked invalid.
+- Spams will be marked invalid.  
 
+ 
