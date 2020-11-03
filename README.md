@@ -10,4 +10,7 @@ Solutions to competitive prgramming questions on codeforces and codechef.
 - Moderators can decline the pull request if found unnecessary or stub.
 - Spams will be marked invalid.  
 
+[![Stargazers repo roster for @Programming-Club-Ahmedabad-University/Competitive-coding](https://reporoster.com/stars/Programming-Club-Ahmedabad-University/Competitive-coding)](https://github.com/Programming-Club-Ahmedabad-University/Competitive-coding/stargazers)
+
+[![Forkers repo roster for @Programming-Club-Ahmedabad-University/Competitive-coding](https://reporoster.com/forks/Programming-Club-Ahmedabad-University/Competitive-coding)](https://github.com/Programming-Club-Ahmedabad-University/Competitive-coding/network/members)
  
